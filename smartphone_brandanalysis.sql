@@ -1,4 +1,4 @@
-SELECT * FROM my_projects.netflix_userbase;
+
 -- total_models by brand_name
 SELECT brand_name, COUNT(*) AS total_models
 FROM smartphones
